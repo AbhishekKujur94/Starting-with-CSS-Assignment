@@ -1,0 +1,26 @@
+.paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.paragraph_important {
+    color: red;
+    font-weight: bold;
+}
+.paragraph_warning {
+    color: orange;
+}
+.paragraph_note {
+    color: blue;
+    font-style: italic;
+}
+.btn {
+    background-color: #54fa54;
+}
+.btn_primary {
+    background-color: blueviolet;
+    color: yellowgreen;
+}
+.btn_secondary {
+    background-color: gray;
+    color: brown;
+}
